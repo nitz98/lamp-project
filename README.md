@@ -116,9 +116,7 @@ This guide will help you set up a WordPress website on a Linux server with a LEM
 
    Create a `.github/workflows/deploy.yml` file in your repository for your GitHub Actions workflow. Here's a sample configuration:
 
-   ```yaml
-   (Insert your GitHub Actions workflow YAML configuration here)
-   ```
+
 
 
 3. **Secrets**:
